@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/CityOfNewYork/addressparser
+	branch = development
+	commit = 517e1083f9689c0a9972833d2efeb56452e70f19
+	parent = 3a665e10409e5804d4be25a9d4453b8b78021a8c
+	cmdver = 0.3.1

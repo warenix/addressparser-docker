@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.ropeproject
+*pyc
+env_parseraddress
+ENV
+ACRIS_-_Personal_Property_Parties.txt
+DOHMH_New_York_City_Restaurant_Inspection_Results.txt
+Lower_Manhattan_Retailers.txt
+Mapped_In_NY_Companies.txt
+
